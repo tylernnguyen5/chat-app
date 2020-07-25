@@ -1,8 +1,26 @@
-# chat-app
+# Real-time Chat App
 
-> A Vue.js project
+Hi, this is a real-time chat room I developed with Vue.js and Firebase. The user can just enter their name to enter the chat room and start sending messages right away (No registration need). The application is implemented with auto-scrolling and showing the latest messages at the bottom of the chat component.
 
-## Build Setup
+You can try it out [here](https://chat-app-8de2c.web.app/).
+
+## Screenshots
+
+![](screenshots/Screenshot_1.png)
+![](screenshots/Screenshot_2.png)
+![](screenshots/Screenshot_3.png)
+
+## Dependencies 
+
+- Node.js 
+- Firebase (Hosting, Firestore)
+- Vue.js
+- [Materialize CSS](https://materializecss.com/)
+- [Momentjs](https://momentjs.com/)
+
+---
+
+## Build Setup for Vue.js
 
 ``` bash
 # install dependencies
