@@ -2,6 +2,8 @@
 
 Hi, this is a real-time chat room I developed with Vue.js and Firebase. The user can just enter their name to enter the chat room and start sending messages right away (No registration need). The application is implemented with auto-scrolling and showing the latest messages at the bottom of the chat component.
 
+## Live Demo
+
 You can try it out [here](https://chat-app-8de2c.web.app/).
 
 ## Screenshots
